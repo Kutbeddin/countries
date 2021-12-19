@@ -1,0 +1,22 @@
+.App {
+  background-image: url("https://media4.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.webp?cid=ecf05e47c448742gvycs3thgwuozwu4jw13dzq6zp278vsnz&rid=giphy.webp&ct=g");
+  background-position: center;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 10fr 10fr 10fr;
+  grid-gap: 2rem;
+}
+
+h1 {
+  color: darkred;
+  font-weight: bold;
+}
+
+h2 {
+  color: darkviolet;
+}
+h5 {
+  color: midnightblue;
+}
